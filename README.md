@@ -169,17 +169,17 @@ C:.
   <tr>
     <td align="center" width="500px">
       <a href="https://github.com/legitgoons" target="_blank">
-        <img src="./readmeImages/Fe1.png" alt="이의찬 프로필" />
+        <img src="./readmeImages/Fe1_no.png" alt="이의찬 프로필" />
       </a>
     </td>
     <td align="center" width="500px">
       <a href="https://github.com/YeryunJung" target="_blank">
-        <img src="./readmeImages/Fe2.png" alt="정예륜 프로필" />
+        <img src="./readmeImages/Fe2_no.png" alt="정예륜 프로필" />
       </a>
     </td>
     <td align="center" width="500px">
       <a href="https://github.com/l0u0h0" target="_blank">
-        <img src="./readmeImages/Fe3.png" alt="이유한 프로필" />
+        <img src="./readmeImages/Fe3_no.png" alt="이유한 프로필" />
       </a>
     </td>
   </tr>
@@ -203,17 +203,17 @@ C:.
   <tr>
     <td align="center" width="500px">
       <a href="https://github.com/inputTitleHere" target="_blank">
-        <img src="./readmeImages/Be1.png" alt="백승윤 프로필" />
+        <img src="./readmeImages/Be1_no.png" alt="백승윤 프로필" />
       </a>
     </td>
     <td align="center" width="500px">
       <a href="https://github.com/hsilnam" target="_blank">
-        <img src="./readmeImages/Be2.png" alt="남현실 프로필" />
+        <img src="./readmeImages/Be2_no.png" alt="남현실 프로필" />
       </a>
     </td>
     <td align="center" width="500px">
       <a href="https://github.com/fnejd" target="_blank">
-        <img src="./readmeImages/Be3.png" alt="김도현 프로필" />
+        <img src="./readmeImages/Be3_no.png" alt="김도현 프로필" />
       </a>
     </td>
   </tr>
